@@ -22,4 +22,4 @@ pipeline {
         }
     }
 }
-
+echo 'Modification pour tester Poll SCM'
